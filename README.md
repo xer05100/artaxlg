@@ -1,1 +1,1 @@
-# artaxlg
+When Games with the Light Gun category are launched, the front end will halt the default launch script and run an autoIt script that detects the selected game, then runs the appropriate external programs, services, and settings to initiate force feedback
